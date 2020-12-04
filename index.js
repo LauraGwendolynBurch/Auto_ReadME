@@ -8,11 +8,11 @@ const questions = [{
     message: "What is your project title?",
     name: "title",
 },
-// {
-//     type:'input',
-//     message: "Where is a description of this project?",
-//     name: "description",
-// },
+{
+    type:'input',
+    message: "Where is a description of this project?",
+    name: "description",
+},
 // {
 //     type:'input',
 //     message: "What is your name?",
@@ -50,9 +50,8 @@ inquirer
     .prompt(questions)
     .then ( response => {
         // console.log(response);
-        // console.log(response.personName);
-        // console.log(response.location);
-        // console.log(response.linkedIn);
+        // console.log(response.title);
+        // console.log(response.description);
         // console.log(response.github);
         
         writeToFile("Gen-README.md", response);
