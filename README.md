@@ -48,7 +48,7 @@ If you work with code this will save time while maintaining a quality readME.
 Clone repo | Push changes | Create Pull request
 
 ## Test
-![Sample Video of Project ](./images/sample1.png)
+![Sample Video of Project ](./images/video.gif)
 
 ## Image of sample code
 ![Sample Image of Project](./images/samplecode1.png)
