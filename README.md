@@ -50,8 +50,11 @@ Clone repo | Push changes | Create Pull request
 ## Test
 ![Sample Video of Project ](./images/sample1.png)
 
-## Images
-![Sample Image of Project ](./images/sample1.png)
+## Image of sample code
+![Sample Image of Project](./images/samplecode1.png)
+
+## Image of sample code
+![Sample Image of Project](./images/samplecode.png)
 
 ## Credits
 Anna Conover (tutor)
