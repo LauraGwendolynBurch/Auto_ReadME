@@ -34,42 +34,43 @@ ${data.description}
 
 
 ## Link-to-project 
-[Github Repo Auto_ReadMe](https://lauragwendolynburch.github.io/Auto_ReadME/)
+[Github Repo ${data.title}](${data.githubProjectRepo})
 
 
 ## Installation
-* NPM i inquirer
-* node.js
+* ${data.instal}
+
 
 ## User-Story
-If you work with code this will save time while maintaining a quality readME.  
+${data.story}
+
 
 ## License
-[Apache License, Version 2.0](https://opensource.org/licenses/Apache-2.0)
+[ ${data.license} ](${data.licenseWebsite})
+
 
 
 ## Contribution
-Clone repo | Push changes | Create Pull request
+${data.contribution}
+
 
 ## Test
-![Sample Video of Project ](./images/sample1.png)
+![Sample Video of Project ](${data.video})
+
 
 ## Images
-![Sample Image of Project ](./images/sample1.png)
+![Sample Image of Project ](${data.image})
+
 
 ## Credits
-Anna Conover (tutor)
+${data.credits}
 
-LevelApp (tutor)
-
-University of Washington Bootcamp TAs and Instructor
-
-Study Group: Aaron Parnell, Keenan Reed, Sally Perez, Rattanak Leng
 
 ## Questions
-GitHub Username: [LauraGwendolynBurch](https://github.com/LauraGwendolynBurch)
+GitHub Username: [${data.gitHubUserName}](${data.gitHubWebsite})
 
-Email: <lauraburch.lb@gmail.com>
+
+Email: <${data.email}>
 
   
   `
