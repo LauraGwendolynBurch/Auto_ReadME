@@ -67,6 +67,8 @@ ${data.credits}
 
 
 ## Questions
+Any questions please reach out via email, or visit my Github website.
+
 GitHub Username: [${data.gitHubUserName}](${data.gitHubWebsite})
 
 
