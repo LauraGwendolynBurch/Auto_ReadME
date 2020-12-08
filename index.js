@@ -46,11 +46,6 @@ const questions = [{
 },
 {
     type:'input',
-    message: "What license website did you use for this repo? Add as https://",
-    name: "licenseWebsite",
-},
-{
-    type:'input',
     message: "What are the steps needed for someone else to contibute to your project?",
     name: "contribution",
 },
@@ -66,7 +61,7 @@ const questions = [{
 },
 {
     type:'input',
-    message: "What resources helped you with this prroject?  Did other developers help?",
+    message: "What resources helped you with this project?  Did other developers help?",
     name: "credits",
 },
 {
@@ -76,12 +71,12 @@ const questions = [{
 },
 {
     type:'input',
-    message: "What is your github URL for this project?",
+    message: "What is your github URL for this project? Add as https://",
     name: "gitHubWebsite",
 },
 {
     type:'input',
-    message: "What is your email address? Add as https://",
+    message: "What is your email address?",
     name: "email",
 },
 ];

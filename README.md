@@ -1,7 +1,7 @@
 # Auto_ReadME
 
 ## Description
-This code generates the base for a quality readMe file you can match to any project.  You will need to have text editor visual studio code, with node.js downloaded in order to run this.  Follow the promps in the terminal to fill in the content specific to your own project.  For complete step by step instructions follow the video provided in under the heading Test.
+This code generates the base for a quality readMe file you can match to any project.  You will need to have text editor visual studio code, with node.js downloaded in order to run this.  Follow the promps in the terminal to fill in the content specific to your project.  For complete step by step instructions follow the video provided in under the heading Test.
 
 ## Table of Contents
 

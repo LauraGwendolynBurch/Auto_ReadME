@@ -46,7 +46,7 @@ ${data.story}
 
 
 ## License
-[ ${data.license} ](${data.licenseWebsite})
+[ ${data.license} ](https://opensource.org/licenses/${data.license}
 
 
 
