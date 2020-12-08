@@ -29,8 +29,19 @@ const questions = [{
     name: "story",
 },
 {
-    type:'input',
-    message: "What name of the license you used for this repo?",
+    type:'list',
+    message: "What the license you used for this repo?",
+    choices:
+    [ 
+        "MIT",
+        "MPL-2.0",
+        "CDDL_1.0",
+        "EPL-2.0",
+        "lgpl-license",
+        "BSD-3-Clause",
+        "Apache-2.0",
+
+    ],
     name: "license",
 },
 {
